@@ -1,0 +1,21 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Server' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Server
+
+  target 'ServerTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'ServerUITests' do
+    # Pods for testing
+  end
+pod 'Swifter', '~> 1.5.0'
+pod 'CryptoSwift', '~> 1.3.8'
+
+end

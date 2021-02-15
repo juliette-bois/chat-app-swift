@@ -1,0 +1,20 @@
+PODS:
+  - CryptoSwift (1.3.8)
+  - Swifter (1.5.0)
+
+DEPENDENCIES:
+  - CryptoSwift (~> 1.3.8)
+  - Swifter (~> 1.5.0)
+
+SPEC REPOS:
+  trunk:
+    - CryptoSwift
+    - Swifter
+
+SPEC CHECKSUMS:
+  CryptoSwift: 01b0f0cba1d5c212e5a335ff6c054fb75a204f00
+  Swifter: e71dd674404923d7f03ebb03f3f222d1c570bc8e
+
+PODFILE CHECKSUM: 1c4f3b6ac44a5a456de617084e39487db007c7e1
+
+COCOAPODS: 1.10.1

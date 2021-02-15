@@ -1,0 +1,31 @@
+PODS:
+  - CryptoSwift (1.3.8)
+  - InputBarAccessoryView (5.2.3):
+    - InputBarAccessoryView/Core (= 5.2.3)
+  - InputBarAccessoryView/Core (5.2.3)
+  - MessageKit (3.5.0):
+    - InputBarAccessoryView (~> 5.2.1)
+  - Swifter (1.5.0)
+
+DEPENDENCIES:
+  - CryptoSwift (~> 1.3.8)
+  - InputBarAccessoryView
+  - MessageKit
+  - Swifter (~> 1.5)
+
+SPEC REPOS:
+  trunk:
+    - CryptoSwift
+    - InputBarAccessoryView
+    - MessageKit
+    - Swifter
+
+SPEC CHECKSUMS:
+  CryptoSwift: 01b0f0cba1d5c212e5a335ff6c054fb75a204f00
+  InputBarAccessoryView: f814a0317d47687fafc6bac9e4df6015eaf5b764
+  MessageKit: fb539583599cd914e8e2d41fe7bdceb4bf686565
+  Swifter: e71dd674404923d7f03ebb03f3f222d1c570bc8e
+
+PODFILE CHECKSUM: a643b2bdfe7f6ccc5c6803692bf789b4876ad6ab
+
+COCOAPODS: 1.10.1

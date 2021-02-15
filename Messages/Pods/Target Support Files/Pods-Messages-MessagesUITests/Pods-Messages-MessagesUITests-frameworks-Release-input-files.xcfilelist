@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-Messages-MessagesUITests/Pods-Messages-MessagesUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CryptoSwift/CryptoSwift.framework
+${BUILT_PRODUCTS_DIR}/InputBarAccessoryView/InputBarAccessoryView.framework
+${BUILT_PRODUCTS_DIR}/MessageKit/MessageKit.framework
+${BUILT_PRODUCTS_DIR}/Swifter/Swifter.framework
